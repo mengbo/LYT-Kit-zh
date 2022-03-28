@@ -1,0 +1,9 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Cybertron",
+  "enabledCssSnippets": [
+    "cybertron"
+  ],
+  "translucency": false,
+  "baseFontSize": 16
+}
